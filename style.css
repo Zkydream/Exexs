@@ -1,0 +1,18 @@
+.container .row .col-md-3 img {
+    transition: transform 0.3s ease; 
+  }
+  
+  .container .row .col-md-3 img:hover {
+    transform: scale(1.1); 
+  }
+  
+
+footer {
+    line-height: 1.4; 
+  }
+  
+footer p {
+    margin: 0; 
+    
+  }
+
